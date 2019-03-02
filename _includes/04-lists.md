@@ -1,10 +1,10 @@
 <li>
   <ul>
--  :earth_americas:</ul>
+  :earth_americas:</ul>
   <ul>
--   :telescope:</ul>
+  :telescope:</ul>
   <ul>
--  :sparkles:</ul>
+  :sparkles:</ul>
   <ul>
--   :milky_way:</ul>
+  :milky_way:</ul>
   </li>
