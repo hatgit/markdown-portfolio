@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have _endless_ curiosity to learn new things, with an *emphasis* on finance. I also like to paint star maps :sparkles: , the :earth: and :universe: and paint :horses:.
