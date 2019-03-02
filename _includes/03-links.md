@@ -1,1 +1,1 @@
-[Twitter] (https://twitter.com/shatzakis)
+[Twitter](https://twitter.com/shatzakis)
