@@ -4,7 +4,7 @@
   <ul>
 -   :telescope:</ul>
   <ul>
--  :horse:</ul>
+-  :sparkles:</ul>
   <ul>
--   :milky_ways:</ul>
+-   :milky_way:</ul>
   </li>
