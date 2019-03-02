@@ -1,7 +1,4 @@
 <li>
-    <ul>
-      :palmtree:
-      :sparkles:
-  </ul>
-  </ul>
-  
+-     :palmtree:
+-     :sparkles:
+  </li>
