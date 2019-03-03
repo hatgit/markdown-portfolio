@@ -1,4 +1,4 @@
-# Hatgit's Sample Markup Portfolio Page #:octocat:
+# Hatgit's Sample Markup Portfolio Page  :octocat:
 
 
 
